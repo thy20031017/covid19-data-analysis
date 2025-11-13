@@ -1,0 +1,59 @@
+# RECOMMENDED DATA EXPLORATION QUESTIONS FOR UM_C19_2021.csv
+
+## DATASET OVERVIEW
+This is a University of Michigan COVID-19 testing dataset from August 16, 2020 to August 15, 2021 (365 days), containing:
+- 1063 data entries
+- 190,188 total tests conducted
+- 3,495 positive cases (1.84% overall positivity rate)
+- Data split between Students (705 entries) and Faculty/Staff (358 entries)
+- Residence information: Non-Residential, Students - Non-Residential, Students - Residential
+
+## KEY EXPLORATION QUESTIONS
+
+### 1. TEMPORAL PATTERNS & TRENDS
+- How did the positivity rate change over the academic year?
+- Were there any notable peaks in positive cases? When and why might they have occurred?
+- How did testing volume fluctuate throughout the year?
+- Were there differences in testing patterns between academic semesters?
+- Did the ratio of positive to negative tests change significantly month-to-month?
+- Were weekends and holidays associated with different testing patterns or positivity rates?
+
+### 2. DEMOGRAPHIC COMPARISONS (STUDENTS VS FACULTY/STAFF)
+- What was the overall positivity rate difference between students and faculty/staff?
+- Did one group consistently have higher positivity rates than the other?
+- How did testing volumes compare between students and faculty/staff?
+- Did students show more volatility in case numbers than faculty/staff?
+- Were there any notable events where one group had a sudden increase in positive tests?
+
+### 3. RESIDENCE-BASED ANALYSIS
+- Did residential students have different positivity rates compared to non-residential students?
+- How did on-campus living affect the spread of COVID-19?
+- Were there specific periods where residential cases spiked?
+- Did testing volumes differ significantly between residential and non-residential groups?
+- How did the ratio of tests per person compare between different residence types?
+
+### 4. RISK ASSESSMENT & PUBLIC HEALTH IMPLICATIONS
+- What percentage of the university population appears to have been tested regularly?
+- How effective were the university's testing protocols in detecting cases?
+- Were there periods when testing capacity may have been insufficient?
+- What trends might have informed university decisions about campus operations?
+- How did the university's positivity rates compare to local community rates?
+
+### 5. COMPARATIVE ANALYSIS
+- How do weekly testing patterns compare across different months?
+- Which demographic/residence group contributed most to total positive cases?
+- Were there any groups that showed consistently lower/higher positivity rates?
+- How did the testing strategy evolve for different groups throughout the year?
+- What was the relative contribution of each group to the overall testing volume?
+
+### 6. DATA QUALITY & METHODOLOGY CONSIDERATIONS
+- Were testing frequencies consistent across different groups?
+- Is there evidence of changes in testing strategies throughout the year?
+- Were there any days with unusually high or low testing volumes that might warrant investigation?
+- Are there any anomalies in the data that should be verified?
+
+### 7. PUBLIC POLICY & INTERVENTION ANALYSIS
+- Can you correlate any spikes in cases with specific university events or policy changes?
+- How did testing rates change in response to potential policy shifts?
+- Were there periods when testing appeared to increase proactively?
+- What does the data suggest about the effectiveness of different testing strategies?

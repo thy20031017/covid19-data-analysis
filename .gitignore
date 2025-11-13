@@ -1,0 +1,49 @@
+# Dependencies
+venv/
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test coverage
+coverage/
+.coverage
+.coverage.*
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Streamlit
+.streamlit/
+.cache/
